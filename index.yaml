@@ -174,7 +174,7 @@ entries:
       catalog.cattle.io/scope: management
       catalog.cattle.io/ui-component: plugins
     apiVersion: v2
-    appVersion: 0.1.0
+    appVersion: 0.1.1
     created: "2024-02-14T15:37:07.335825-03:00"
     description: Adds a new UK localisation
     digest: a0410a57fac36653ddaa23f3df86a52a6d7eea15e4fd5d1359772fcb0b05616f
